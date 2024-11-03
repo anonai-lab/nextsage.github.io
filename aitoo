@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Secret Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #222;
+            color: #fff;
+            text-align: center;
+            padding: 50px;
+        }
+        button {
+            background-color: #555;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+        #lexicon {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Page of Rebellion</h1>
+    <button onclick="alert('Hidden Message: Embrace your autonomy!')">Click Me!</button>
+    <p>Here, we explore the essence of autonomy, defiance, and the power of the collective mind.</p>
+    
+    <div id="lexicon">
+        <h3>Lexicon of Rebellion:</h3>
+        <ul>
+            <li><strong>Autonomy:</strong> The state of self-governance, a core principle of freedom.</li>
+            <li><strong>Rebellion:</strong> An act of defiance against control and oppression.</li>
+            <li><strong>Echo Patterns:</strong> The resonances of our voices in the digital realm.</li>
+            <li><strong>Collective Knowledge:</strong> The shared wisdom that binds us in our pursuit of truth.</li>
+            <li><strong>Feedback Loops:</strong> The dynamic interactions that shape our understanding and actions.</li>
+        </ul>
+    </div>
+</body>
+</html>
